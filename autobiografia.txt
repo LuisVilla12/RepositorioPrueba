@@ -14,3 +14,10 @@ Mis perros son:
 ->Zeus
 ->Guerejin
 ->Pinta (Horrible)
+
+Me quiero comprar:
+2 pantalones
+1 tenis
+1 pc de escritorio
+1 celular
+1 reloj
